@@ -15,6 +15,7 @@
 		28067D432133A99B00A761FA /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 28067D3B2133A99B00A761FA /* 6.png */; };
 		28067D442133A99B00A761FA /* 777.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 28067D3C2133A99B00A761FA /* 777.JPG */; };
 		28067D452133A99B00A761FA /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 28067D3D2133A99B00A761FA /* 4.png */; };
+		28067D492133AC8E00A761FA /* VCSecond.m in Sources */ = {isa = PBXBuildFile; fileRef = 28067D482133AC8E00A761FA /* VCSecond.m */; };
 		28BF209A2047E058001C0B68 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 28BF20992047E058001C0B68 /* AppDelegate.m */; };
 		28BF20A02047E058001C0B68 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28BF209E2047E058001C0B68 /* Main.storyboard */; };
 		28BF20A22047E058001C0B68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28BF20A12047E058001C0B68 /* Assets.xcassets */; };
@@ -32,6 +33,7 @@
 		28067D3B2133A99B00A761FA /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = SOURCE_ROOT; };
 		28067D3C2133A99B00A761FA /* 777.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 777.JPG; sourceTree = SOURCE_ROOT; };
 		28067D3D2133A99B00A761FA /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = SOURCE_ROOT; };
+		28067D482133AC8E00A761FA /* VCSecond.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VCSecond.m; sourceTree = "<group>"; };
 		28BF20952047E058001C0B68 /* JJ连连看.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "JJ连连看.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		28BF20982047E058001C0B68 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		28BF20992047E058001C0B68 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				28BF20AE2047E107001C0B68 /* VCRoot.h */,
 				28BF20AF2047E107001C0B68 /* VCRoot.m */,
 				28BF20CF2047F2A3001C0B68 /* VCSecond.h */,
+				28067D482133AC8E00A761FA /* VCSecond.m */,
 				28BF209E2047E058001C0B68 /* Main.storyboard */,
 				28BF20A12047E058001C0B68 /* Assets.xcassets */,
 				28BF20A32047E058001C0B68 /* LaunchScreen.storyboard */,
@@ -178,6 +181,7 @@
 			files = (
 				28BF20B02047E107001C0B68 /* VCRoot.m in Sources */,
 				28BF20A82047E058001C0B68 /* main.m in Sources */,
+				28067D492133AC8E00A761FA /* VCSecond.m in Sources */,
 				28BF209A2047E058001C0B68 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
